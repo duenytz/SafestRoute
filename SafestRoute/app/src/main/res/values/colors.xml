@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorPrimaryLight">#CFD8DC</color>
+    <color name="colorAccent">#448AFF</color>
+
+    <color name="mapsRegularRoute">#DB7133</color>
+    <color name="mapsSaferRoute">#267BD1</color>
+    <color name="mapsCircleSolid">#d50000</color>
+    <color name="mapsCircleGradient">#00242f3e</color>
+
+</resources>

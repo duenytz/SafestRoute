@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pedestrian Routing</string>
+
+    <string name="here_app_id">ufCJlmxdmp9x8lJYEpOg</string>
+    <string name="here_app_token">9lG5pxlkfg-6riQbeQeXwQ</string>
+    <string name="route_error">There was an error loading the route</string>
+    <string name="dangerous_zone_warning_text">Heads up! You are near a crime zone.</string>
+    <string name="ok_btn_text">OK</string>
+    <string name="fastest_route_text">Fast Route</string>
+    <string name="safest_route_text">Safer Route</string>
+    <string name="crime_area_text">Crime Area</string>
+    <string name="click_in_the_map_hint_text">Click your destination on the map</string>
+</resources>
